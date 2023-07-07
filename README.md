@@ -1,2 +1,2 @@
-# curse
-curso de henrry
+Este proyecto es una prueva de como clonar mi repositorio 
+
